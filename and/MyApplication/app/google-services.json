@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250270416264",
+    "project_id": "exemple-d956f",
+    "storage_bucket": "exemple-d956f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250270416264:android:f68ecc74365891d2f14e3d",
+        "android_client_info": {
+          "package_name": "com.isimed.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnLBmh9-OspEUQsWZT5h3waMKoxxCZGyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
